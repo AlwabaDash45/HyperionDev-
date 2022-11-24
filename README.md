@@ -2,12 +2,10 @@
  
  # Section A : Code Review
  
- #
-
-Correctness: 1/4
-Efficiency: 1/4
-Style: 1/4
-Documention: 1/4
+### Correctness: 1/4
+### Efficiency: 1/4
+### Style: 1/4
+### Documention: 1/4
 
 ## Positve Aspects 
 
